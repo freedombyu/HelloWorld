@@ -1,17 +1,20 @@
 # Overview
 
+As a software engineer, I developed this project to strengthen my Python programming skills. This project challenged me to apply fundamental programming concepts in a real-world.Through this development process, I've enhanced my ability to design efficient solutions, debug complex issues, and write clean, maintainable code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+This software is a Personal Finance Tracker that allows users to manage their income and expenses through an interactive command line interface. The program stores transaction data persistently in JSON format, allowing users to track their finances over time and gain insights into their spending patterns.
+
+My primary purpose in creating this software was to build a practical tool while mastering essential Python concepts. This project also helped me understand the importance of error handling and data persistence in real-world applications. Additionally, it allowed me to explore how to structure a program with multiple functions and maintain clean code organization.
+
+[Software Demo Video](https://www.loom.com/share/0868c26212b944ddb58ec471a4294434)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I developed this software using Visual Studio Code with the Python extension, which provided intelligent code completion, syntax checking, and integrated debugging. The built-in terminal enabled seamless testing, while Git integration helped track project changes.
 
-{Describe the programming language that you used}
+The project was built using Python 3.11 for its readability and extensive standard library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+* [Real Python](https://realpython.com/) - Comprehensive tutorials on file handling, data structures, and best practices for Python development
+* [VS Code Python Documentation](https://code.visualstudio.com/docs/python/python-tutorial) - Guidance on configuring and optimizing the development environment
